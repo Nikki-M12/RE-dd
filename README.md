@@ -16,7 +16,7 @@ sudo apk add build-base git
 sudo dnf install development-tools git
 ```
 
-### Step 2: Download code
+## Step 2: Download code
 
 ```bash
 git cline https://github.com/Nikki-M12/RE-dd
