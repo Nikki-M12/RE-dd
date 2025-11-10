@@ -42,5 +42,7 @@ gcc -o REdd REdd.c
 ```bash
 ./REdd if=input_file of=output_file bs=1M status=progress
 ```
-# To see information about the program
-./REdd --about```
+- To see information about the program
+```bash
+./REdd --about
+```
