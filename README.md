@@ -18,7 +18,7 @@ sudo dnf install development-tools git
 ## Step 2: Download code
 
 ```bash
-git cline https://github.com/Nikki-M12/RE-dd
+git clone https://github.com/Nikki-M12/RE-dd
 cd REdd
 ```
 
