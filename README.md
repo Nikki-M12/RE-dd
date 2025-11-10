@@ -1,8 +1,8 @@
 # REimplementation of the DD command
 This is a reimplementation of the classic Linux `dd` command. It may not be 100%% perfect like the original command, as it's based on an understanding of how the original command works, so errors may exist.
 
-### How to compile
-- Step 1: Install dependencies
+## How to compile
+### Step 1: Install dependencies
 ### Ubuntu/Debian
 ```bash
 sudo apt install build-essential git
@@ -15,12 +15,12 @@ sudo apk add build-base git
 ```bash
 sudo dnf install development-tools git
 ```
-- Step 2: Download code
+### Step 2: Download code
 ```bash
 git cline https://github.com/Nikki-M12/RE-dd
 cd REdd
 ```
-- Step 3: Compile this code
+## Step 3: Compile this code
 ```bash
 gcc -o REdd REdd.c
 ```
