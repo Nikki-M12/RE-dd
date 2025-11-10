@@ -15,15 +15,18 @@ sudo apk add build-base git
 ```bash
 sudo dnf install development-tools git
 ```
+
 ### Step 2: Download code
 ```bash
 git cline https://github.com/Nikki-M12/RE-dd
 cd REdd
 ```
+
 ## Step 3: Compile this code
 ```bash
 gcc -o REdd REdd.c
 ```
+
 # Usage
 - Basic usage example
 ```bash
